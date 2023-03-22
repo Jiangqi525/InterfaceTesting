@@ -85,6 +85,7 @@ def get_is_run():
 
 
 def get_result_value():
+    """获取实际输出"""
     result = 8
     return result
 
